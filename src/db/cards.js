@@ -2,13 +2,13 @@ import { nanoid } from "nanoid";
 
 const cards = [
   { name: "heart", id: nanoid() },
-  { name: "dog", id: nanoid() },
-  { name: "tree", id: nanoid() },
-  { name: "apple", id: nanoid() },
-  { name: "pizza", id: nanoid() },
+  { name: "egg", id: nanoid() },
+  { name: "shield", id: nanoid() },
+  { name: "squircle", id: nanoid() },
+  { name: "chat", id: nanoid() },
   { name: "cloud", id: nanoid() },
-  { name: "mountain", id: nanoid() },
-  { name: "train", id: nanoid() }
+  { name: "circle", id: nanoid() },
+  { name: "penguin", id: nanoid() }
 ];
 
 export default cards;
