@@ -6,7 +6,7 @@ const GlobalStyle = createGlobalStyle`
   --color-background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(229,229,229,1) 100%);
   --color-dark: #252629;
   --color-light: white;
-  --color-accent: #ff1158;
+  --color-accent: #05e876;
   --color-matched: green;
 }
   

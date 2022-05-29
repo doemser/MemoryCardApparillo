@@ -27,7 +27,7 @@ export default function App() {
 
   return (
     <>
-      <h1>memory apparillo</h1>
+      <h1>memory apparillo.</h1>
       <GlobalStyle />
       <Scorings />
       <GameBoard>
